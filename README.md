@@ -3,6 +3,7 @@
 <h3 align="center">A founder and passionate full-stack blockchain developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kody435" alt="kody435" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kody435&label=Profile%20views&color=0e75b6&style=flat" alt="kody435" /> </p>
 
 <p align="left"> <a href="https://twitter.com/Param435_" target="blank"><img src="https://img.shields.io/twitter/follow/Param435_?logo=twitter&style=for-the-badge" alt="Param435_" /></a> </p>
 
