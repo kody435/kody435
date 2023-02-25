@@ -1,4 +1,4 @@
-![MasterHead](https://media.giphy.com/media/zZC2AqB84z7zFnlkbF/giphy.gif)
+
 <h1 align="center">Hi 👋, I'm Param Patel</h1>
 <h3 align="center">A founder and passionate full-stack blockchain developer</h3>
 
