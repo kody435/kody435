@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React, Web3 and Python**
 
-- 📫 How to reach me on **[Twitter](https://twitter.com/Param435_)**
+- 📫 Reach me on **[Twitter](https://twitter.com/Param435_)**
 
 - ⚡ Fun fact **I think I am funny**
 
