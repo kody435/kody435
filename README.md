@@ -118,11 +118,3 @@
             alt="typescript" width="40" height="40" />
     </a>
 </p>
-
-<h3 align="left">Some other important stats</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kody435&show_icons=true&locale=en&layout=compact" alt="kody435" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kody435&show_icons=true&locale=en" alt="kody435" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kody435&" alt="kody435" /></p>
